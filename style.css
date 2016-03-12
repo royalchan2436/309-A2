@@ -1,0 +1,15 @@
+canvas {
+        background-color: white;
+        border: 3px solid green;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+}
+
+div{
+    background-color: white;
+    border: 3px solid green;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
